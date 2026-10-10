@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="578" height="38" viewBox="0 0 578 38"><defs>
+<linearGradient id="tb" x1="0" y1="0" x2="0" y2="1">
+ <stop offset="0" stop-color="#3D95FF"/><stop offset="0.08" stop-color="#0A61F1"/>
+ <stop offset="0.45" stop-color="#0058EE"/><stop offset="0.9" stop-color="#0049D6"/><stop offset="1" stop-color="#003CB0"/>
+</linearGradient>
+<linearGradient id="close" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F0A08C"/><stop offset="0.5" stop-color="#E0472B"/><stop offset="1" stop-color="#C0351A"/></linearGradient>
+<linearGradient id="btn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7DB2FF"/><stop offset="0.5" stop-color="#2A6FF0"/><stop offset="1" stop-color="#1A55D0"/></linearGradient>
+<linearGradient id="start" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5FC25F"/><stop offset="0.5" stop-color="#3A9A3A"/><stop offset="1" stop-color="#2E7D2E"/></linearGradient>
+<linearGradient id="task" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3F8CF3"/><stop offset="0.1" stop-color="#245EDC"/><stop offset="0.9" stop-color="#245EDC"/><stop offset="1" stop-color="#1941A5"/></linearGradient>
+<linearGradient id="tray" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3FB0F5"/><stop offset="0.5" stop-color="#0F8EE8"/><stop offset="1" stop-color="#0C6CC9"/></linearGradient>
+<linearGradient id="chip" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E3E0D0"/></linearGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2C64D2"/><stop offset="0.55" stop-color="#6FA4EC"/><stop offset="1" stop-color="#BFDBF7"/></linearGradient>
+<linearGradient id="hill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7CC243"/><stop offset="0.5" stop-color="#4A9A20"/><stop offset="1" stop-color="#2E6E10"/></linearGradient>
+<linearGradient id="pbar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#B9F2A4"/><stop offset="0.5" stop-color="#2FB52F"/><stop offset="1" stop-color="#1E8E1E"/></linearGradient>
+<linearGradient id="tgbtn" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5BC4FF"/><stop offset="0.5" stop-color="#2AABEE"/><stop offset="1" stop-color="#1A86C8"/></linearGradient>
+<filter id="sh" x="-5%" y="-5%" width="115%" height="120%"><feDropShadow dx="4" dy="5" stdDeviation="4" flood-opacity="0.35"/></filter>
+<filter id="ts"><feDropShadow dx="1" dy="1" stdDeviation="0.4" flood-color="#0A1E5A" flood-opacity="0.9"/></filter>
+</defs><rect x="0" y="0" width="578" height="36" rx="7" fill="url(#tb)"/><rect x="10" y="8" width="20" height="20" rx="3" fill="#FFFFFF" opacity="0.9"/><rect x="13" y="13" width="14" height="12" fill="#1B5FD9"/><text x="40" y="25" font-family="'Trebuchet MS',Tahoma,Verdana,'DejaVu Sans',sans-serif" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="start" filter="url(#ts)">Control Panel — installed programs</text><rect x="498" y="7" width="22" height="22" rx="3" fill="url(#btn)" stroke="#FFFFFF" stroke-width="1.2"/><rect x="503" y="21" width="8" height="3" fill="#fff"/><rect x="522" y="7" width="22" height="22" rx="3" fill="url(#btn)" stroke="#FFFFFF" stroke-width="1.2"/><rect x="527" y="12" width="12" height="12" fill="none" stroke="#fff" stroke-width="2"/><rect x="527" y="12" width="12" height="3" fill="#fff"/><rect x="546" y="7" width="22" height="22" rx="3" fill="url(#close)" stroke="#FFFFFF" stroke-width="1.2"/><path d="M552.0,13.0 L562.0,23.0 M562.0,13.0 L552.0,23.0" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></svg>
